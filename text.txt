@@ -1,2 +1,2 @@
-I am texting hoe to use git branch
-
+I am testing how to use git branch
+i am using this this file for that
